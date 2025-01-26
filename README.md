@@ -1,7 +1,7 @@
 # Minecraft Server Showcase Bot
 
-[![GitHub issues](https://img.shields.io/github/issues/g9militantsYT/Minecraft-Server-Showcase)](https://github.com/g9militantsYT/Minecraft-Server-Showcase/issues)
-[![GitHub stars](https://img.shields.io/github/stars/g9militantsYT/Minecraft-Server-Showcase)](https://github.com/g9militantsYT/Minecraft-Server-Showcase/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/upayanmazumder/Minecraft-Server-Showcase)](https://github.com/upayanmazumder/Minecraft-Server-Showcase/issues)
+[![GitHub stars](https://img.shields.io/github/stars/upayanmazumder/Minecraft-Server-Showcase)](https://github.com/upayanmazumder/Minecraft-Server-Showcase/stargazers)
 
 The Minecraft Server Showcase Bot is a feature-rich Discord bot designed to enhance the experience of showcasing and exploring Minecraft servers. It provides a seamless way for users to share server information and retrieve details about various Minecraft servers.
 
@@ -21,7 +21,7 @@ To install the bot, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/g9militantsYT/Minecraft-Server-Showcase.git
+    git clone https://github.com/upayanmazumder/Minecraft-Server-Showcase.git
     cd Minecraft-Server-Showcase
     ```
 
@@ -91,7 +91,7 @@ Feel free to explore these commands to make the most out of the Minecraft Server
 
 ## Support and Feedback
 
-If you encounter any issues or have suggestions, please open an issue on the [GitHub repository](https://github.com/g9militantsYT/Minecraft-Server-Showcase/issues).
+If you encounter any issues or have suggestions, please open an issue on the [GitHub repository](https://github.com/upayanmazumder/Minecraft-Server-Showcase/issues).
 
 ## Additional Links
 
